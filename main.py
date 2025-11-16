@@ -215,7 +215,8 @@ class Testing(unittest.TestCase):
 
 
 
-
+# ActionChain() used to perform mouse and keyboard actions
+# Select() class is used to handle dropdowns
 
 
 
